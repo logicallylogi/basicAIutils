@@ -1,0 +1,14 @@
+{
+  "name": "tflite-serve",
+  "version": "1.0.0",
+  "description": "A basic Express app that serves results from a TFLite file",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Logic Kenzie",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

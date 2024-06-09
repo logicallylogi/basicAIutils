@@ -1,0 +1,14 @@
+{
+  "name": "tflite-wrapper",
+  "version": "0.0.1",
+  "description": "This is a very lightweight wrapper for node-tflite",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Logic Kenzie",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-tflite": "^0.0.2"
+  }
+}
